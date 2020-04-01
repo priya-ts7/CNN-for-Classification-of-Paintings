@@ -1,1 +1,24 @@
+Problem Definition:
 
+This project designs and trains a CNN from scratch to perform classification of the painting images 
+according to the style of painting.
+
+The features learned by the CNN are studied in order to analyze the reason for misclassifications and 
+identify potential approaches to improve performance of the network.
+
+
+Dataset Description:
+
+The data set being used in this project is the WikiArt dataset made available in Github. 
+This dataset contains numerous paintings by various artists with different styles and belonging to different time periods.
+Around 100,000 images of paintings, with varying dimensions, by 2,300 artists and belonging to 26 different styles are
+available in this dataset.
+The 14 classes are - Abstract_Expressionism, Art_Nouveau, Baroque, Color_Field_Painting, Cubism, Expressionism,
+Impressionism, Naive_Art_Primitivism, Northern_Renaissance, Pop_Art, Post_Impressionism, Rococo, Romanticism, Symbolism.
+
+Execution:
+
+Data.7z contains the dataset used.
+simpsal.zip is a folder containing the functions for 'saliency mapping'. Needs to be unzipped before execution.
+
+project_code is the only file that needs to be executed. (Before execution specify the folder in which data file is saved in the first line of code')
