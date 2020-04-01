@@ -21,4 +21,5 @@ Execution:
 Data.7z contains the dataset used.
 simpsal.zip is a folder containing the functions for 'saliency mapping'. Needs to be unzipped before execution.
 
-project_code is the only file that needs to be executed. (Before execution specify the folder in which data file is saved in the first line of code')
+project_code is the only file that needs to be executed.
+
